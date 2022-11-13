@@ -11,8 +11,8 @@
 }
 
 .childScreen {
-    width : 250px;
-    height: 450px;
+    width : 500px;
+    height: 900px;
     border: solid;
     border-radius: 50px;
     display: flex;
